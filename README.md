@@ -1,12 +1,27 @@
-# React + Vite
+# CV Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant CV application built with React and Vite. This application allows users to input and display their general information, educational background, and work experience.
 
-Currently, two official plugins are available:
+## Screenshot
+![CV Application Screenshot](./screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Vite
+- CSS
 
-## Expanding the ESLint configuration
+## Features:
+### Required Features
+- Input and display general information (name, email, phone)
+- Input and display educational background (school, title, date)
+- Input and display work experience (company, position, responsibilities, from, until)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Additional Features
+- Edit mode for each section
+- Responsive design
+- Form validation
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Santix123123/cv_app.git
