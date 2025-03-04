@@ -3,7 +3,7 @@
 A simple and elegant CV application built with React and Vite. This application allows users to input and display their general information, educational background, and work experience.
 
 ## Screenshot
-![CV Application Screenshot](./screenshot.png)
+![CV Application Screenshot](./CV-Application.png)
 
 ## Technologies Used
 - React
@@ -25,3 +25,5 @@ A simple and elegant CV application built with React and Vite. This application 
 1. Clone the repository:
    ```sh
    git clone https://github.com/Santix123123/cv_app.git
+
+### Live Demo:
