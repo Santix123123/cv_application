@@ -24,6 +24,6 @@ A simple and elegant CV application built with React and Vite. This application 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Santix123123/cv_app.git
+   git clone https://github.com/Santix123123/cv_application.git
 
 ### Live Demo:
